@@ -9,8 +9,10 @@ list(APPEND FLUTTER_PLUGIN_LIST
   firebase_auth
   firebase_core
   flutter_secure_storage_windows
+  geolocator_windows
   iris_method_channel
   permission_handler_windows
+  share_plus
   url_launcher_windows
 )
 

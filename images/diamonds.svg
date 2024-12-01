@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.705" height="43.327" viewBox="0 0 36.705 43.327">
+  <g id="diamonds" transform="translate(-22.383 -14)">
+    <path id="Path_1172" data-name="Path 1172" d="M59.088,52.31H22.383L28.5,42.667H52.97Z" transform="translate(0 -16.025)" fill="#fed33c"/>
+    <path id="Path_1173" data-name="Path 1173" d="M34.618,52.31H22.383L28.5,42.667Z" transform="translate(0 -16.025)" fill="#fee179"/>
+    <path id="Path_1174" data-name="Path 1174" d="M62.363,52.31H50.128l6.117-9.643Z" transform="translate(-15.51 -16.025)" fill="#fee179"/>
+    <path id="Path_1175" data-name="Path 1175" d="M90.107,52.31H77.872l6.117-9.643Z" transform="translate(-31.019 -16.025)" fill="#fee179"/>
+    <path id="Path_1176" data-name="Path 1176" d="M40.736,85.576,22.383,64.533H59.088Z" transform="translate(0 -28.248)" fill="#feb500"/>
+    <g id="Group_490" data-name="Group 490" transform="translate(31.569 14)">
+      <path id="Path_1177" data-name="Path 1177" d="M50.128,64.533l6.117,21.043,6.117-21.043Z" transform="translate(-47.078 -42.248)" fill="#fed33c"/>
+      <path id="Path_1178" data-name="Path 1178" d="M63.022,14a.772.772,0,0,0-.772.772v5.769a.772.772,0,1,0,1.543,0V14.772A.772.772,0,0,0,63.022,14Z" transform="translate(-53.855 -14)" fill="#fed33c"/>
+      <path id="Path_1179" data-name="Path 1179" d="M77.429,22.114a.772.772,0,0,0-1.091,0l-4.08,4.08a.772.772,0,1,0,1.092,1.091l4.079-4.08a.771.771,0,0,0,0-1.091Z" transform="translate(-59.323 -18.409)" fill="#fed33c"/>
+      <path id="Path_1180" data-name="Path 1180" d="M44.53,22.113A.772.772,0,0,0,43.438,23.2l4.08,4.08a.772.772,0,1,0,1.092-1.091Z" transform="translate(-43.212 -18.409)" fill="#fed33c"/>
+    </g>
+  </g>
+</svg>
